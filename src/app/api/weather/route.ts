@@ -9,7 +9,6 @@ import {
   buildCondition,
   dateToYMD,
 } from "@/lib/weather-utils";
-
 // ── Google Weather API ──────────────────────────────────────────────────────
 
 const GOOGLE_WEATHER_BASE = "https://weather.googleapis.com/v1";
